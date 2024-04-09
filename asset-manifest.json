@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dribble-project/static/css/main.5ddc56e6.css",
+    "main.js": "/dribble-project/static/js/main.b114c950.js",
+    "static/js/787.a6ecc7c3.chunk.js": "/dribble-project/static/js/787.a6ecc7c3.chunk.js",
+    "static/media/Login.jpeg": "/dribble-project/static/media/Login.3a4f11ccb90d43927a99.jpeg",
+    "index.html": "/dribble-project/index.html",
+    "main.5ddc56e6.css.map": "/dribble-project/static/css/main.5ddc56e6.css.map",
+    "main.b114c950.js.map": "/dribble-project/static/js/main.b114c950.js.map",
+    "787.a6ecc7c3.chunk.js.map": "/dribble-project/static/js/787.a6ecc7c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ddc56e6.css",
+    "static/js/main.b114c950.js"
+  ]
+}
